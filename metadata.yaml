@@ -1,0 +1,39 @@
+_repo: Il-tulipano-nero_68090
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Chiarini, Giovanni
+    gutenberg_agent_id: '54594'
+    url: http://www.gutenberg.org/2009/agents/54594
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - père, Alexandre Dumas
+    - Dumas, Alexander
+    - Dumas, Alexandre, pere
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+    - https://fr.wikipedia.org/wiki/Alexandre_Dumas
+description: ''
+gutenberg_issued: '2022-05-15'
+identifiers:
+  gutenberg: '68090'
+language: it
+pgterms:marc905: 20210417015104dumas
+pgterms:marc906: '1851'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by The Internet Archive)
+publication_note: Italy :Batelli,1851.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Il tulipano nero
+url: http://www.gutenberg.org/ebooks/68090
